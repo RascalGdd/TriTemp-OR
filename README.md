@@ -1,3 +1,14 @@
+# Tri-modal Confluence with Temporal Dynamics for Scene Graph Generation in Operating Rooms (MICCAI 2024)
+> [Paper](https://arxiv.org/pdf/2404.09231)
+> 
+> Authors:
+> [Diandian Guo](https://scholar.google.com/citations?user=yXycwhIAAAAJ&hl=en), 
+> [Manxi Lin](https://scholar.google.com/citations?user=RApnUsEAAAAJ&hl=da),
+> [Jialun Pei](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en),
+> [He Tang](https://scholar.google.com.hk/citations?user=70XLFUsAAAAJ&hl=zh-CN), 
+> [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=en).
+>
+
 ## Environment preparation
 
 The code is tested on CUDA 11.1 and pytorch 1.9.0, change the versions below to your desired ones.
