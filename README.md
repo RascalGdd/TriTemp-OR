@@ -67,16 +67,6 @@ TriTemp-OR/data/:
 
 Pretrained DETR weights: [OneDrive](https://gocuhk-my.sharepoint.com/:u:/g/personal/jialunpei_cuhk_edu_hk/EcQvVowPUVBItg8tIM1L7SMBXGQu4xQXTSrZNOcNSDHIwg?e=pFkhQx).
 
-| Model         | Config                                           | 4D-OR prec | 4D-OR recall | 4D-OR f1|
-|:--------------|:------------------------------------------------ |:---------------|:-------------|:-------------|
-| -          | [configs/CIS_RT.yaml](configs/CIS_RT.yaml)       | -           | -         | -         |
-| -          | [configs/CIS_R50.yaml](configs/CIS_R50.yaml)     | -           | -         | -         |
-| -          | [configs/CIS_R101.yaml](configs/CIS_R101.yaml)   | -           | -         | -         |
-| -          | [configs/CIS_PVTv2B2Li](configs/CIS_PVTv2B2Li)   | -           | -         | -         |
-| -          | [configs/CIS_SWINT.yaml](configs/CIS_SWINT.yaml) | -           | -         | -         |
-
-
-
 
 ## Usage
 
