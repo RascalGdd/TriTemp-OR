@@ -119,5 +119,6 @@ If this helps you, please cite this work:
   author={Guo, Diandian and Lin, Manxi and Pei, Jialun and Tang, He and Jin, Yueming and Heng, Pheng-Ann},
   booktitle={MICCAI},
   year={2024},
+  organization={Springer}
 }
 ```
