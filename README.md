@@ -107,11 +107,17 @@ This work is based on:
 - [DETR](https://github.com/facebookresearch/detr)
 
 
-Thanks them for their great work!
+Thanks for their great work!
 
 ## Citation
 
 If this helps you, please cite this work:
 
-```
+```bibtex
+@inproceedings{guo2024tri,
+  title={Tri-modal Confluence with Temporal Dynamics for Scene Graph Generation in Operating Rooms},
+  author={Guo, Diandian and Lin, Manxi and Pei, Jialun and Tang, He and Jin, Yueming and Heng, Pheng-Ann},
+  booktitle={MICCAI},
+  year={2024},
+}
 ```
