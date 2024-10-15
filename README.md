@@ -8,9 +8,8 @@
 > [He Tang](https://scholar.google.com.hk/citations?user=70XLFUsAAAAJ&hl=zh-CN), 
 > [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=en).
 
-## Visualization
-
-```
+## DEMO
+[![Watch the video](https://img.youtube.com/vi/amjobbBY89U/maxresdefault.jpg)](https://youtu.be/amjobbBY89U)
 
 ## Environment preparation
 
