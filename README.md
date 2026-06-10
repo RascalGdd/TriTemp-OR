@@ -48,7 +48,7 @@ Then refer to https://github.com/erikwijmans/Pointnet2_PyTorch/tree/master for P
 
 - **Raw 4D-OR**: https://forms.gle/9cR3H5KcFUr5VKxr9
 
-- **Processed 4D-OR**: [OneDrive](https://gocuhk-my.sharepoint.com/:f:/g/personal/jialunpei_cuhk_edu_hk/Es4MUdHVUE1LpOJn2vHQFKMBNGfr2O0LT0xLG8HLMFVWEg?e=ovg5RL)
+- **Processed 4D-OR**: [BaiduNetdisk](https://pan.baidu.com/s/1TvWUmf_bE1FAuluKXB8qsQ?pwd=7ec2)
 
 ### Datasets for training
 
